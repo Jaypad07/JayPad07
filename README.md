@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypad07&label=Profile%20views&color=0e75b6&style=flat" alt="jaypad07" /> </p>
 
-- 🔭 I’m currently working on [Find&Go App](https://github.com/Jaypad07/Find-Go-Angular)
+- 🔭 I’m currently working on my [Find&Go App](https://github.com/Jaypad07/Find-Go-Angular)
 
-- 🌱 I’m currently learning **Angular,JavaScript, and Java**
+- 🌱 I’m currently learning **Angular, JavaScript, and Java**
 
 - 👯 I’m looking to collaborate on **Anything, just message me. I am always interested in learning new things**
 
-- 👨‍💻 My projects and Portfolio is available at [Portfolio](https://jaypad07.github.io/Portfolio/)
+- 👨‍💻 My projects and Portfolio are available [here](https://jaypad07.github.io/Portfolio/)
 
-- 💬 Ask me about **Java or strategy games**
+- 💬 Ask me about **Java or video games**
 
 - 📫 How to reach me **JayPadilla.dev@gmail.com**
 
