@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Anything, just message me. I am always interested in learning new things**
 
-- 👨‍💻 My projects and Portfolio are available [here](https://jaypad07.github.io/Portfolio/)
+- 👨‍💻 My projects and portfolio are available [here](https://jaypad07.github.io/Portfolio/)
 
 - 💬 Ask me about **Java or video games**
 
