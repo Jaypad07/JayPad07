@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">I'm a Full-Stack Engineer from AZ with a passion for tech and video games.</h3>
+<h3 align="center">I'm a Full-Stack Software Engineer from AZ with a passion for tech and video games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypad07&label=Profile%20views&color=0e75b6&style=flat" alt="jaypad07" /> </p>
 
