@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **JayPadilla.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VXCw4pY19rJtWMiF8Ihk8P6lllB4kXEP/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ynt7RlizTML5nLPCCrd6j_i9kq_plxan/view?usp=sharing)
 
 - ⚡ Fun fact **I have traveled to 16 different countries and I also used to play semi-pro Overwatch | Top 500 Main Tank**
 
