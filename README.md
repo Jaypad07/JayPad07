@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Anything, just message me. I am always interested in learning new things**
 
-- 👨‍💻 My projects and portfolio are available [here](https://jaypad07.github.io/Portfolio/)
+- 👨‍💻 My projects and portfolio are available [here](https://jaypad07.itch.io/))
 
 - 💬 Ask me about **Java or video games**
 
 - 📫 How to reach me **JayPadilla.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ynt7RlizTML5nLPCCrd6j_i9kq_plxan/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1D8zrx_prZGPiX0PharsCJA7vdYvGRsnb/edit?usp=sharing&ouid=103536503824753779801&rtpof=true&sd=true))
 
 - ⚡ Fun fact **I have traveled to 16 different countries and I also used to play semi-pro Overwatch | Top 500 Main Tank**
 
